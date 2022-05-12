@@ -1,2 +1,5 @@
 # Python-Testing-Code
-Python Testing Codes for Python Selenium Automation
+
+This code base and its branches are been created by Suman Gangoapdhyay for testing Python Selenium Automation testing.
+
+Kindly visit the MAIN and the BRANCH for the sample codes prepared by Suman Gangopadhyay.
